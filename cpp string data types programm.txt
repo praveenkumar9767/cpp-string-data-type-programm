@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+string a = "praveen is a coder" ;
+cout<< " who is praveen = " << a<< endl;
+return 0;
+}
+
+//https://github.com/praveenkumar9767//
